@@ -1,5 +1,5 @@
-# Healthcare-ExcelDashboard
+# Healthcare-Excel-Project
 
 ###Healthcare-project
 
-in this HealthCare Dashboard i have uploaded a sample dashboard. in this i have worked on this futures
+in this HealthCare Project i have uploaded a sample dashboard. in this i have worked on this futures
