@@ -2,4 +2,4 @@
 
 ###Healthcare-project
 
-in this healthcare dashboard i have uploaded a sample dashboard. in this i have worked on this futures
+in this HealthCare Dashboard i have uploaded a sample dashboard. in this i have worked on this futures
